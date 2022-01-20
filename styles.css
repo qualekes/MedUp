@@ -9,6 +9,7 @@ h1 {
 .navbar-collapse {
    padding: 20px;
    margin-left:35px;
+   height: 59px;
 }
 
 .nav-item {
@@ -32,6 +33,7 @@ font-size: 30px;
    font-weight: bold;
    padding-bottom: 90px;
 }
+
 
 .card {
    border: none;
