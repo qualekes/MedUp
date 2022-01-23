@@ -75,6 +75,17 @@ font-size: 30px;
    margin: 0 auto;
 }
 
+.contact_text {
+   padding-top:50px;
+      color:#3c33cc;
+      font-weight: bold;
+}
+
+section .text-center {
+   text-align: none !important;
+}
+
+
 .form-control {
    background: #212529;
    border-color: #545454;
@@ -82,6 +93,26 @@ font-size: 30px;
 
 .form-control:focus {
    background: #212529;
+}
+
+.contact_title {
+   text-align: center;
+   margin: 0 auto;
+   width: 700px;
+   line-height: 1.4;
+}
+
+.map {
+   background-color: #3c33cc;
+
+   width: 700px;
+   height:800px;
+}
+
+.contact_text_section {
+     background-color: white;
+     width:740px;
+     height: 800px;
 }
 
 footer {
